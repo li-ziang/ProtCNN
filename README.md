@@ -1,0 +1,2 @@
+# ProtteinCNN
+reproduction of ProtteinCNN
