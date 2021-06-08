@@ -5,7 +5,8 @@ PFAM *seed* data avaliable at [here](https://console.cloud.google.com/storage/br
 
 process data with `process_data.ipynb` based on [here](https://github.com/anindya-vedant/Genetic-ProtCNN/blob/master/Notebooks/Pfam_protein_sequence_classification_full.ipynb)
 
-pad all the sequences to length of 2048
+pad all the sequences to length of 2048 
+
 train with
 ```shell
 python run_2048.py
